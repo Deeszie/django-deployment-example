@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-yddfy(xpw*4w3+&%!ril5^%j0s&en#u!o!6q-xssg=jt^htu$1
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["doggeteer.pythonanywhere.com"]
 
 
 # Application definition
